@@ -26,7 +26,7 @@ ctrl + r
 
 repete o último comando
 
-# lmapa terminal 
+# limpa terminal 
 
 ctrl + l
 
