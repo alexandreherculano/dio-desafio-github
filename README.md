@@ -1,5 +1,6 @@
 # Desafio do projeto sobre Github disponibilizado pela Digital Innovation One
-Repositório criado para o desafio
+
+Comandos e atalhos básicos do linux 
 
 Link úteis:
 

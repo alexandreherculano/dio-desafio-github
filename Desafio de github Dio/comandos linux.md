@@ -6,21 +6,21 @@ apresenta diretório atual
 
 listar arquivos e diretórios
 
-# cd <diretorio>: 
+# cd [diretorio]: 
 
 acessar diretório
 
-# remover arquivo ou diretório(usar -r para diretório):
+# remover arquivo ou diretório(usar -r para diretório ou comando rmdir):
 
-rm <arquivo ou diretório usando>
+rm [arquivo ou diretório usando]
 
 # criar diretório:
 
-mkdir <diretório>
+mkdir [diretório]
 
 # acessar diretório:
 
-cd <diretório>
+cd [diretório]
 
 # retornar um diretório:
 
@@ -28,7 +28,7 @@ cd ..
 
 # acessar manual do comando:
 
-man <comando>
+man [comando]
 ls --help
 
 # resgatar histórico de comando utilizados 
@@ -37,10 +37,15 @@ history
 
 # copiar arquivos ou diretório 
 
-cd <origem> <destino>
+cd [origem] [destino]
 
-# mover arquivos ou diretório 
+# mover ou renomear arquivos ou diretório 
 
-mv <origem> <destino>
+mv [origem] [destino]
+
+# criar arquivos vazios
+
+touch [arquivo]
+
 
 
