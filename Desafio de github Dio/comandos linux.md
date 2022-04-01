@@ -1,51 +1,60 @@
-# pwd:
+# apresenta diretório atual:
 
-apresenta diretório atual
+pwd
 
-# ls (usar -l para detalhes, usar -a para exibir arquivos ocultos):
+# listar arquivos e diretórios
 
-listar arquivos e diretórios
+ls (usar -l para detalhes, usar -a para exibir arquivos ocultos):
 
-# cd [diretorio]: 
+# acessar diretório
 
-acessar diretório
+cd [diretorio]
 
 # remover arquivo ou diretório(usar -r para diretório ou comando rmdir):
 
 rm [arquivo ou diretório usando]
 
-# criar diretório:
+# cria diretório:
 
 mkdir [diretório]
 
-# acessar diretório:
+# acessa diretório:
 
 cd [diretório]
 
-# retornar um diretório:
+# retorna um diretório:
 
 cd ..
 
-# acessar manual do comando:
+# acessa manual do comando:
 
 man [comando]
+
+ou
+
 ls --help
 
-# resgatar histórico de comando utilizados 
+# resgata histórico de comando utilizados 
 
 history
 
-# copiar arquivos ou diretório 
+# copia arquivos ou diretório 
 
 cd [origem] [destino]
 
-# mover ou renomear arquivos ou diretório 
+# move ou renomeia arquivos ou diretório 
 
 mv [origem] [destino]
+
+# cria arquivo vazio
+
+touch [arquivo]
 
 # criar arquivos vazios
 
 touch [arquivo]
 
+# mostra conteúdo de um texto 
 
+cat [arquivo]
 
